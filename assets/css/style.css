@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
 :root{--bg:#f5f3ee;--paper:#fff;--ink:#14212d;--mute:#5c6b78;--line:#d9d6cd;--navy:#0a1f33;--cyan:#19d3e6;--teal:#00798a;--tint:#e9eef0;
 --d:'Vidaloka','Didot','Times New Roman',serif;--s:'IBM Plex Sans','Segoe UI',Arial,sans-serif;--m:'IBM Plex Mono',ui-monospace,Menlo,monospace;
 box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
